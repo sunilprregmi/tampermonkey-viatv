@@ -1,0 +1,1462 @@
+{
+  "status": "1",
+  "statusCode": 200,
+  "message": "Data Found.",
+  "response": [
+    {
+      "reseller_id": 1,
+      "name": "Vianet Communications Pvt. Ltd",
+      "address": "jawalakhel"
+    },
+    {
+      "reseller_id": 2,
+      "name": "Subisu Cablenet Ltd.",
+      "address": "pani pokhari"
+    },
+    {
+      "reseller_id": 3,
+      "name": "Pokhara Internet Pvt. Ltd",
+      "address": "Pokhara"
+    },
+    {
+      "reseller_id": 5,
+      "name": "Waling Internet Pvt. Ltd",
+      "address": "Waling"
+    },
+    {
+      "reseller_id": 6,
+      "name": "Fiberworld Communications",
+      "address": "Nawalparasi"
+    },
+    {
+      "reseller_id": 7,
+      "name": "Nagarik Cable Net Pvt. Ltd",
+      "address": "Butwal"
+    },
+    {
+      "reseller_id": 9,
+      "name": "Software reseller",
+      "address": "Jawalakhel"
+    },
+    {
+      "reseller_id": 11,
+      "name": "Techminds Network Pvt. Ltd.",
+      "address": "Narayanghat"
+    },
+    {
+      "reseller_id": 12,
+      "name": "Nepalink Communications Pvt. Ltd",
+      "address": "Kankai-3, Surunga Jhapa"
+    },
+    {
+      "reseller_id": 13,
+      "name": "InfoNet Communications Pvt. Ltd.",
+      "address": "Arghakhachi"
+    },
+    {
+      "reseller_id": 14,
+      "name": "Beni Communications Pvt Ltd",
+      "address": "Myagdi, Beni"
+    },
+    {
+      "reseller_id": 15,
+      "name": "Neolink Private Limited",
+      "address": "Dang"
+    },
+    {
+      "reseller_id": 17,
+      "name": "Unite Networks Pvt. Ltd.",
+      "address": "Bardibas-1, Mahottari"
+    },
+    {
+      "reseller_id": 18,
+      "name": "Konnect Nepal Networks Pvt. Ltd.",
+      "address": "Rangeli Road ,Biratnagar"
+    },
+    {
+      "reseller_id": 20,
+      "name": "Clean Network Private Limited",
+      "address": "Siraha, Lahan"
+    },
+    {
+      "reseller_id": 23,
+      "name": "Limpid ICT Solution Pvt. Ltd.",
+      "address": "Janakpur 14"
+    },
+    {
+      "reseller_id": 25,
+      "name": "Fiber Net Communication Pvt. Ltd.",
+      "address": "Tilottama - 15, Kotihawa"
+    },
+    {
+      "reseller_id": 26,
+      "name": "Izone Private Limited",
+      "address": "Urlabari, Morang"
+    },
+    {
+      "reseller_id": 27,
+      "name": "Janaki Net Link Pvt. Ltd.",
+      "address": "Janakpur 9"
+    },
+    {
+      "reseller_id": 28,
+      "name": "Firstlink Communications Pvt. Ltd.",
+      "address": "Damak, 05, Jhapa"
+    },
+    {
+      "reseller_id": 30,
+      "name": "PDS SERVER NETWORK PVT.LTD.",
+      "address": "Tandi Chitwan"
+    },
+    {
+      "reseller_id": 32,
+      "name": "Pathivara Trade Link",
+      "address": "Damak, 05, Jhapa"
+    },
+    {
+      "reseller_id": 33,
+      "name": "Airlink Communication Service",
+      "address": "Pokhara-08, Prithvichowk"
+    },
+    {
+      "reseller_id": 34,
+      "name": "NNS Private Limited",
+      "address": "Biratnagar"
+    },
+    {
+      "reseller_id": 36,
+      "name": "Asia Net & Communication  Pvt. Ltd.",
+      "address": "Birtamode, Jhapa"
+    },
+    {
+      "reseller_id": 37,
+      "name": "Big Marsyangdi Net Pvt, Ltd.",
+      "address": "Bharatput, Chitwan"
+    },
+    {
+      "reseller_id": 39,
+      "name": "Prime Network Private Limited",
+      "address": "Bharatpur, Chitwan"
+    },
+    {
+      "reseller_id": 40,
+      "name": "Acme Technical Institute Pvt.Ltd",
+      "address": "Sunwal"
+    },
+    {
+      "reseller_id": 43,
+      "name": "Namjung Cable Network Pvt Ltd",
+      "address": "Namjung"
+    },
+    {
+      "reseller_id": 44,
+      "name": "SmartNet Communication Pvt Ltd",
+      "address": "Sunwal-12, Bhumahi"
+    },
+    {
+      "reseller_id": 45,
+      "name": "Linkup Technology",
+      "address": "Letang-9, Morang"
+    },
+    {
+      "reseller_id": 47,
+      "name": "Airson Internet Pvt. Ltd.",
+      "address": "Pokhara- 14 Chauthe"
+    },
+    {
+      "reseller_id": 48,
+      "name": "AVN. Cablenet Pvt. Ltd.",
+      "address": "Sipadol-6, Suryabinayak"
+    },
+    {
+      "reseller_id": 50,
+      "name": "Kunwor Computer and Electronics Concern",
+      "address": "Tansen-05"
+    },
+    {
+      "reseller_id": 60,
+      "name": "Fikkal Cable TV Network Pvt Ltd.",
+      "address": "Fikkal Bajar"
+    },
+    {
+      "reseller_id": 62,
+      "name": "Hariwon Media Network Company",
+      "address": "Hariwon-11, Sarlahi"
+    },
+    {
+      "reseller_id": 63,
+      "name": "Kankai Cable Network Pvt Ltd.",
+      "address": "Surunga-3, Jhapa"
+    },
+    {
+      "reseller_id": 64,
+      "name": "New Buddha Cable Network",
+      "address": "Bhadrapur-2, Jhapa"
+    },
+    {
+      "reseller_id": 66,
+      "name": "Mechi Space Link Cable TV Network",
+      "address": "Birtamode,Jhapa"
+    },
+    {
+      "reseller_id": 68,
+      "name": "Smart Link Network Pvt Ltd",
+      "address": "Gothatar"
+    },
+    {
+      "reseller_id": 69,
+      "name": "Pals Network Pvt Ltd",
+      "address": "Milanchowk , Butwal-9"
+    },
+    {
+      "reseller_id": 70,
+      "name": "Himalayan Gorkha Net Pvt Ltd",
+      "address": "Haramtari-6"
+    },
+    {
+      "reseller_id": 71,
+      "name": "Fibertel Fibernet Pvt Ltd",
+      "address": "Lamki-2"
+    },
+    {
+      "reseller_id": 73,
+      "name": "Chaupari Cable Net Pvt. Ltd.",
+      "address": "Palpa"
+    },
+    {
+      "reseller_id": 77,
+      "name": "Right Side Cable Network",
+      "address": "Imliya, Kapilvastu"
+    },
+    {
+      "reseller_id": 79,
+      "name": "Suprashna Digital Cable Network Pvt.Ltd.",
+      "address": "Parbatipur Chitwan"
+    },
+    {
+      "reseller_id": 81,
+      "name": "Lekhnath Branch TV",
+      "address": "Lekhnath, Pokhara"
+    },
+    {
+      "reseller_id": 83,
+      "name": "Galkot Branch TV",
+      "address": "Galkot"
+    },
+    {
+      "reseller_id": 85,
+      "name": "Bajrang cable Ltd.",
+      "address": "Rajbiraj"
+    },
+    {
+      "reseller_id": 87,
+      "name": "Arctic Communication Pvt. Ltd",
+      "address": "Buddhashanti,Jhapa"
+    },
+    {
+      "reseller_id": 88,
+      "name": "Tech Care Infosys",
+      "address": "Gokarneshwor-02, Kathmandu"
+    },
+    {
+      "reseller_id": 90,
+      "name": "Mercantile Communications Pvt. Ltd",
+      "address": "Hiti Pokhari, Durbarmarg"
+    },
+    {
+      "reseller_id": 92,
+      "name": "Jaya Bhawani Cable Network Pvt Ltd",
+      "address": "Chapakot Municipality -9"
+    },
+    {
+      "reseller_id": 94,
+      "name": "D.G Link Network Pvt. Ltd",
+      "address": "Shuklagandaki-04"
+    },
+    {
+      "reseller_id": 96,
+      "name": "Nasa Complete I.T. Solution",
+      "address": "Krishnapur, Chhapiya"
+    },
+    {
+      "reseller_id": 98,
+      "name": "Khaptad Net Pvt Ltd",
+      "address": "Sangebager municipality"
+    },
+    {
+      "reseller_id": 100,
+      "name": "Super Vision only Network Pvt. Ltd",
+      "address": "Nepalgunj-8"
+    },
+    {
+      "reseller_id": 101,
+      "name": "Konnect bbn",
+      "address": "Rangeli Road ,Biratnagar"
+    },
+    {
+      "reseller_id": 103,
+      "name": "SmartLink Telecommunications Pvt. Ltd.",
+      "address": "Tinkune"
+    },
+    {
+      "reseller_id": 104,
+      "name": "Unified Communication Private Limited",
+      "address": "09, Damak Municipality, Jhapa"
+    },
+    {
+      "reseller_id": 106,
+      "name": "Fattepur Mahalakshmi Cable Network Pvt.Ltd",
+      "address": "Fattepur, Saptari"
+    },
+    {
+      "reseller_id": 108,
+      "name": "V.N.S. Technology Pvt. Ltd.",
+      "address": "Janakpur municipality"
+    },
+    {
+      "reseller_id": 110,
+      "name": "Fast Speed Link Network Pvt.Ltd",
+      "address": "Dharan upamahannagarpalika"
+    },
+    {
+      "reseller_id": 111,
+      "name": "Oasis Broadband Internet Pvt. Ltd.",
+      "address": "Putalisadak-28"
+    },
+    {
+      "reseller_id": 112,
+      "name": "Chhap Internet Sewa",
+      "address": "Kaligandaki,chhap-6"
+    },
+    {
+      "reseller_id": 114,
+      "name": "West Link Nepal Network Pvt Ltd",
+      "address": "Banganga"
+    },
+    {
+      "reseller_id": 116,
+      "name": "Lumbini Max Digital Cable Net Pvt. Ltd.",
+      "address": "Tilottama, Bhalwari-7"
+    },
+    {
+      "reseller_id": 121,
+      "name": "Made Info Tech Pvt. Ltd.",
+      "address": "Bharatpur-10"
+    },
+    {
+      "reseller_id": 122,
+      "name": "Subha Services",
+      "address": "Ratnanagar municipality"
+    },
+    {
+      "reseller_id": 123,
+      "name": "Aahana Suppliers",
+      "address": "Mallarani ga.pa.4"
+    },
+    {
+      "reseller_id": 124,
+      "name": "Upper Jhimruk Electronics",
+      "address": "Jhimruk-7,Tushara"
+    },
+    {
+      "reseller_id": 126,
+      "name": "Kriti Digital Services",
+      "address": "Nepalgunj-1"
+    },
+    {
+      "reseller_id": 128,
+      "name": "Chandragadhi Cable TV Network Pvt Ltd",
+      "address": "Chandragadhi, Jhapa"
+    },
+    {
+      "reseller_id": 129,
+      "name": "Wifi Tech Nepal Pvt Ltd",
+      "address": "Birgunj-12"
+    },
+    {
+      "reseller_id": 130,
+      "name": "Alisha Communication Link Pvt Ltd",
+      "address": "Sauraha , Ratnanagar"
+    },
+    {
+      "reseller_id": 131,
+      "name": "Amlekhgunj Branch",
+      "address": "Amlekhgunj"
+    },
+    {
+      "reseller_id": 133,
+      "name": "Web Networks Pvt Ltd",
+      "address": "Tilottama 04, Rupandehi"
+    },
+    {
+      "reseller_id": 134,
+      "name": "Infinity Tech Communication Pvt. Ltd.",
+      "address": "Gokarna"
+    },
+    {
+      "reseller_id": 136,
+      "name": "Web Networks Gopigunj",
+      "address": "Nawalparasi Tilakpur -08"
+    },
+    {
+      "reseller_id": 138,
+      "name": "Web Networks Dhanewa",
+      "address": "Dhanewa"
+    },
+    {
+      "reseller_id": 140,
+      "name": "Web Networks Sunwal",
+      "address": "Bardaghat-14"
+    },
+    {
+      "reseller_id": 142,
+      "name": "Apex Network Enterprises",
+      "address": "Devdaha-5, Khaireni"
+    },
+    {
+      "reseller_id": 144,
+      "name": "Web Networks Nayagaun",
+      "address": "Butwal 13 Tamnagar"
+    },
+    {
+      "reseller_id": 146,
+      "name": "Shankharapur Technology Pvt. Ltd.",
+      "address": "Shankharapur, Municipality"
+    },
+    {
+      "reseller_id": 151,
+      "name": "Kawasoti Communication Network",
+      "address": "kawasoti, Nawalparasi"
+    },
+    {
+      "reseller_id": 152,
+      "name": "Virtual Network Pvt Ltd",
+      "address": "Kalaiya, bara"
+    },
+    {
+      "reseller_id": 156,
+      "name": "SmartLink Anamnagar",
+      "address": "Anamnagar"
+    },
+    {
+      "reseller_id": 158,
+      "name": "Web network Global Net",
+      "address": "= kanchan 05 gargare Rupandehi nepal"
+    },
+    {
+      "reseller_id": 159,
+      "name": "Metrolink Business Group Pvt. Ltd.",
+      "address": "Kotihawa,Tilottama, Municipality"
+    },
+    {
+      "reseller_id": 161,
+      "name": "Mount Link Telecommunications",
+      "address": "Sangurigarhi, Dharan-9"
+    },
+    {
+      "reseller_id": 162,
+      "name": "Mandhavi communication & Electronics",
+      "address": "ramdi pyuthan"
+    },
+    {
+      "reseller_id": 163,
+      "name": "World Fiber Net Pvt. Ltd.",
+      "address": "Balaju-Vidur Municipality, Kathamandu"
+    },
+    {
+      "reseller_id": 164,
+      "name": "Bhatrai Mobile Centre",
+      "address": "Jhimruk - 6 Pyuthan"
+    },
+    {
+      "reseller_id": 166,
+      "name": "Aone Network Pvt Ltd",
+      "address": "Ratnanagara-2 Tandi"
+    },
+    {
+      "reseller_id": 168,
+      "name": "C.N.I.T. Communication Computer Prakishan",
+      "address": "Kushaha bazar surunga5"
+    },
+    {
+      "reseller_id": 170,
+      "name": "Beni Communication Chapur Branch",
+      "address": "Beni"
+    },
+    {
+      "reseller_id": 172,
+      "name": "Galaxy Infotech",
+      "address": "Devdaha-10, Bhaluhi"
+    },
+    {
+      "reseller_id": 174,
+      "name": "Unique Computer Institute",
+      "address": "Banganga -6, Baidauli Kapilvastu"
+    },
+    {
+      "reseller_id": 175,
+      "name": "Milan Multipurpose Company Pvt Ltd",
+      "address": "Balkot, Dhunchopakha"
+    },
+    {
+      "reseller_id": 177,
+      "name": "Devdaha Mobile and Computer Pasal",
+      "address": "Devdaha"
+    },
+    {
+      "reseller_id": 178,
+      "name": "New Charange Photo Studio and Multi Service",
+      "address": "Buddhanagar"
+    },
+    {
+      "reseller_id": 180,
+      "name": "Kriti Digital Nepalgunj Branch",
+      "address": "Nepalgunj-1"
+    },
+    {
+      "reseller_id": 182,
+      "name": "Web Networks Badera",
+      "address": "Sunwal-13, Badera"
+    },
+    {
+      "reseller_id": 184,
+      "name": "Web Networks Jamuniya",
+      "address": "Bardaghat 12 Jamuniya Bazzar"
+    },
+    {
+      "reseller_id": 185,
+      "name": "Web Networks Kapilbastu",
+      "address": "Kapilvastu 08 Jinuwa"
+    },
+    {
+      "reseller_id": 187,
+      "name": "P2P Network",
+      "address": "Ramghat-13"
+    },
+    {
+      "reseller_id": 188,
+      "name": "Samudayik Unique Cable Network Pvt. Ltd.",
+      "address": "Khairhani municipality"
+    },
+    {
+      "reseller_id": 190,
+      "name": "Satlink Nepal Pvt. Ltd.",
+      "address": "lmc-18,saibu"
+    },
+    {
+      "reseller_id": 191,
+      "name": "IT Surgeon Nepal Pvt. Ltd.",
+      "address": "Basundhara, Ktm"
+    },
+    {
+      "reseller_id": 193,
+      "name": "Sunsari Network and Services Pvt. Ltd.",
+      "address": "Ethari-6, sub-metropolitan city"
+    },
+    {
+      "reseller_id": 194,
+      "name": "Shivam Communication Network",
+      "address": "Banganga 4 kapilvastu"
+    },
+    {
+      "reseller_id": 195,
+      "name": "Naman Computers and IT Solution",
+      "address": "Triveni, Binai, Nawalparasi"
+    },
+    {
+      "reseller_id": 197,
+      "name": "Patihani Network Pvt. Ltd.",
+      "address": "Patihani,Bharatpur Municipality"
+    },
+    {
+      "reseller_id": 199,
+      "name": "City Net Pvt Ltd",
+      "address": "Pepsicola-32"
+    },
+    {
+      "reseller_id": 201,
+      "name": "Web Networks Manigram",
+      "address": "Tilottama 05 Manigram Rupandehi"
+    },
+    {
+      "reseller_id": 203,
+      "name": "Expert Communication",
+      "address": "Banganga-6, baidauli"
+    },
+    {
+      "reseller_id": 205,
+      "name": "Nepal Net Sanchar",
+      "address": "Duhabi, Biratnagar"
+    },
+    {
+      "reseller_id": 207,
+      "name": "Kalika Net Pvt Ltd",
+      "address": "Chapkot ,syangja"
+    },
+    {
+      "reseller_id": 209,
+      "name": "Mechi Spacelink Budhabare",
+      "address": "Buddhashanti 2 jhapa"
+    },
+    {
+      "reseller_id": 210,
+      "name": "Web Networks Bhairahawa",
+      "address": "Siddhartha Nagar 09 Buddhachowk"
+    },
+    {
+      "reseller_id": 211,
+      "name": "Syangja Media Pvt Ltd",
+      "address": "Galyang-3,Galyang Syangja"
+    },
+    {
+      "reseller_id": 213,
+      "name": "Global Link Communication",
+      "address": "Suddhodhan 4, Pharsatikar"
+    },
+    {
+      "reseller_id": 215,
+      "name": "Atri Networks And Communication",
+      "address": "Biratnagar morang"
+    },
+    {
+      "reseller_id": 216,
+      "name": "CG Communication Ltd",
+      "address": "Thapathali"
+    },
+    {
+      "reseller_id": 218,
+      "name": "Chitwan Power Soluson",
+      "address": "ratnanagar-8,baghamara Chitwan"
+    },
+    {
+      "reseller_id": 220,
+      "name": "Charcha Nepal A to Z elektronick Pasal",
+      "address": "Shantipur,Gulmi"
+    },
+    {
+      "reseller_id": 221,
+      "name": "Barahi Internet Technologies Pvt. Ltd.",
+      "address": "Nakhu Lalitpur"
+    },
+    {
+      "reseller_id": 223,
+      "name": "Sahani Digital Cable",
+      "address": "Dumarwana-13, Jeetpursimara-Bara"
+    },
+    {
+      "reseller_id": 225,
+      "name": "EarthLink Network Services",
+      "address": "Tandi, Chitwan"
+    },
+    {
+      "reseller_id": 227,
+      "name": "Shree Meta Link Pvt Ltd",
+      "address": "Gokarneshwor Kathmandu"
+    },
+    {
+      "reseller_id": 229,
+      "name": "Alisha computer saplayers",
+      "address": "Phakphukthum, Ilam"
+    },
+    {
+      "reseller_id": 230,
+      "name": "Isshara Computer and Stationary Supplaers Center",
+      "address": "Phidim, Pachdhar"
+    },
+    {
+      "reseller_id": 232,
+      "name": "Bagmati Digital Enterprises",
+      "address": "Malangpur, Rautahat"
+    },
+    {
+      "reseller_id": 233,
+      "name": "Kalika Internet Network",
+      "address": "Ridikot-7,Batase Palpa"
+    },
+    {
+      "reseller_id": 235,
+      "name": "Jupiter Net Pvt Ltd.",
+      "address": "Kathmandu, Raniban"
+    },
+    {
+      "reseller_id": 237,
+      "name": "NR Cable Network Pvt Ltd",
+      "address": "Lamki, Kailali"
+    },
+    {
+      "reseller_id": 239,
+      "name": "Kaligandaki Cable And Internet Sewa",
+      "address": "Kaligandaki 7 mirmi"
+    },
+    {
+      "reseller_id": 241,
+      "name": "Kankai Cable Baradashi",
+      "address": "baradashi-5jhapa"
+    },
+    {
+      "reseller_id": 242,
+      "name": "Kankai Cable Mainagarpalika",
+      "address": "mainagarpalika-2"
+    },
+    {
+      "reseller_id": 244,
+      "name": "Kankai Cable Arjundhara",
+      "address": "Arjundhara -3"
+    },
+    {
+      "reseller_id": 245,
+      "name": "Shree Pathivara Mobile Center",
+      "address": "Aathrai Rural municipality -1 sankranti bazar"
+    },
+    {
+      "reseller_id": 248,
+      "name": "SHREE RAM CABLE NETWORK PVT.LTD",
+      "address": "SYANGJA"
+    },
+    {
+      "reseller_id": 250,
+      "name": "Swift Network & Communication pvt Ltd",
+      "address": "Putalibazar- 1 Syangja"
+    },
+    {
+      "reseller_id": 252,
+      "name": "Aslewa Shivaganga Cable Network",
+      "address": "Aslewa, Gulmi"
+    },
+    {
+      "reseller_id": 254,
+      "name": "Asia Net Birtabazar",
+      "address": "Birtamode -3 Jhapa"
+    },
+    {
+      "reseller_id": 257,
+      "name": "Super Sitapaila Cable Net Pvt. Ltd.",
+      "address": "Sitapaila,"
+    },
+    {
+      "reseller_id": 259,
+      "name": "Konnect Nepal",
+      "address": "Ratnanagar-1 Chitawan"
+    },
+    {
+      "reseller_id": 260,
+      "name": "S.M. Cable Sewa",
+      "address": "nauwakhor parsahi Dhanusa"
+    },
+    {
+      "reseller_id": 261,
+      "name": "SmartLink Network Pepsicola",
+      "address": "Pepsicola"
+    },
+    {
+      "reseller_id": 263,
+      "name": "Manakamana Digital Cable Pvt Ltd",
+      "address": "Pradesh-1, SUNSARI, Itahari Sub-Metropolitian City, Itahari, 6 bp chowk"
+    },
+    {
+      "reseller_id": 265,
+      "name": "Sahaj Network Pvt. Ltd.",
+      "address": "Golbazar-6"
+    },
+    {
+      "reseller_id": 266,
+      "name": "Himal Electronics and Communication",
+      "address": "Chainpur"
+    },
+    {
+      "reseller_id": 268,
+      "name": "ICNS Suppliers",
+      "address": "Phidim-4,Panchthar"
+    },
+    {
+      "reseller_id": 270,
+      "name": "Bajra Communication Pvt. Ltd.",
+      "address": "ithari,sub-metropolitan city,Sunsari"
+    },
+    {
+      "reseller_id": 273,
+      "name": "Ankit Bijuli Pasal",
+      "address": "Kawasoti"
+    },
+    {
+      "reseller_id": 275,
+      "name": "U.P. Trade Link",
+      "address": "Pathari Shanishare Municipality"
+    },
+    {
+      "reseller_id": 276,
+      "name": "Demand Electronic And Technical Support",
+      "address": "Guthi"
+    },
+    {
+      "reseller_id": 278,
+      "name": "GHODAGHODI CABLE NETWORK PVT. LTD.",
+      "address": "Gauriganga Municipality, Chaumala"
+    },
+    {
+      "reseller_id": 279,
+      "name": "All Cable Solution",
+      "address": "Saptakoshi-8"
+    },
+    {
+      "reseller_id": 282,
+      "name": "B.C.Ne. Tatha Internet sewa",
+      "address": "Lakshminiya Rural Municipality"
+    },
+    {
+      "reseller_id": 284,
+      "name": "K. Link Network Pvt. Ltd.",
+      "address": "kerabari morang"
+    },
+    {
+      "reseller_id": 286,
+      "name": "E.G. Link Nepal Pvt. Ltd.",
+      "address": "itahari-4"
+    },
+    {
+      "reseller_id": 287,
+      "name": "East Himalayan Enterprises and Suppliers Pvt Ltd",
+      "address": "Diktel, Khotang"
+    },
+    {
+      "reseller_id": 288,
+      "name": "J.B.M. Space Cable Net",
+      "address": "Chandrauta shivraj -05"
+    },
+    {
+      "reseller_id": 289,
+      "name": "S.N. Digital Network Pvt. Ltd.",
+      "address": "Mahendranagar"
+    },
+    {
+      "reseller_id": 290,
+      "name": "Chandrauta Cable Net",
+      "address": "Chandrauta shivraj -05"
+    },
+    {
+      "reseller_id": 292,
+      "name": "Yunic Sanjay Digital Cable Network",
+      "address": "urlabari-2"
+    },
+    {
+      "reseller_id": 293,
+      "name": "Bahuniya Cable Network Pvt Ltd",
+      "address": "Bahuniya"
+    },
+    {
+      "reseller_id": 294,
+      "name": "Naina Communication Center",
+      "address": "Ramdhuni-6 baklauri"
+    },
+    {
+      "reseller_id": 295,
+      "name": "Fiber Link Communication Pvt Ltd",
+      "address": "Putalibazar- 1 Syangja"
+    },
+    {
+      "reseller_id": 297,
+      "name": "SPEEDLINK",
+      "address": "Girubari"
+    },
+    {
+      "reseller_id": 298,
+      "name": "Moonlight Technology Pvt.Ltd.",
+      "address": "Hetauda-4 Makwanpur"
+    },
+    {
+      "reseller_id": 300,
+      "name": "Dewan Cable Network Pvt Ltd",
+      "address": "Gauradaha jhapa"
+    },
+    {
+      "reseller_id": 301,
+      "name": "Web Networks Haraiya",
+      "address": "Kanchan 03 Haraiya"
+    },
+    {
+      "reseller_id": 302,
+      "name": "Kandel Electronics Sewa",
+      "address": "Banganga 08 Boadgaun"
+    },
+    {
+      "reseller_id": 303,
+      "name": "M.R.S.Digital Net",
+      "address": "Banganga 11 Kapilbastu"
+    },
+    {
+      "reseller_id": 304,
+      "name": "Raghunathpur cable Network Pvt. Ltd",
+      "address": "sabaila-12,Raghunathpur"
+    },
+    {
+      "reseller_id": 306,
+      "name": "Anand Mobile and Laptop Repairing Center",
+      "address": "Mirchaiya-05"
+    },
+    {
+      "reseller_id": 307,
+      "name": "Ujyalo Digital Network Suppliers",
+      "address": "Banganga 04 Kapilbastu"
+    },
+    {
+      "reseller_id": 309,
+      "name": "Jai Buddha Cable Service",
+      "address": "Kapilbastu 03 Taulihawa"
+    },
+    {
+      "reseller_id": 310,
+      "name": "SHIBAPUR SPES CABLE NETWARK PVT.LTD.",
+      "address": "Shivaraj nagarpalika shivapur 1"
+    },
+    {
+      "reseller_id": 311,
+      "name": "Krishnanagar Net Pvt. Ltd",
+      "address": "Krishnanagar Nagarpalika-1 kapilvastu"
+    },
+    {
+      "reseller_id": 313,
+      "name": "Super Network",
+      "address": "Haripurwa, sarlahi"
+    },
+    {
+      "reseller_id": 314,
+      "name": "Nova Tech",
+      "address": "Kamal 4 jhapa"
+    },
+    {
+      "reseller_id": 315,
+      "name": "Kutumba World",
+      "address": "Bharatapur"
+    },
+    {
+      "reseller_id": 317,
+      "name": "Fast-Link Network and Service",
+      "address": "Ramdhuni 1,Jhumka sunsari"
+    },
+    {
+      "reseller_id": 318,
+      "name": "SIM TV DIGITAL CABLE NETWORK",
+      "address": "Janakpurdham, sub-metropolitan city"
+    },
+    {
+      "reseller_id": 319,
+      "name": "Kepler Trading Pvt Ltd",
+      "address": "Godawari -2"
+    },
+    {
+      "reseller_id": 321,
+      "name": "Bishal Khaja Ghar",
+      "address": "Phedikhola-4-Syangja"
+    },
+    {
+      "reseller_id": 323,
+      "name": "V myack Trading",
+      "address": "Damak"
+    },
+    {
+      "reseller_id": 325,
+      "name": "Pratik Trade",
+      "address": "Sundarbazar Lamjung"
+    },
+    {
+      "reseller_id": 326,
+      "name": "Charnath Cable Network Pvt. Ltd ",
+      "address": "Birendra bazar"
+    },
+    {
+      "reseller_id": 327,
+      "name": "Sky Broadband Pvt. Ltd.",
+      "address": "Prayag Pokhari Marg, Lagankhel"
+    },
+    {
+      "reseller_id": 329,
+      "name": "Shirishty Net Kanchanpur Pvt Ltd",
+      "address": "Kanchanpur"
+    },
+    {
+      "reseller_id": 331,
+      "name": "Royal Digital Communications",
+      "address": "Simara-01 Bara"
+    },
+    {
+      "reseller_id": 333,
+      "name": "Basistha Net Communication And Service Center Pvt. Ltd.",
+      "address": "Mahalbari,Triveni ,NAWALPARASI"
+    },
+    {
+      "reseller_id": 335,
+      "name": "Smart Link IT Solution",
+      "address": "Pratappur, NAWALPARASI"
+    },
+    {
+      "reseller_id": 336,
+      "name": "Broad Band Nepal Pvt Ltd",
+      "address": "Butwal"
+    },
+    {
+      "reseller_id": 338,
+      "name": "ASAP Multi Solution",
+      "address": "Bashahiya Nawalparasi"
+    },
+    {
+      "reseller_id": 339,
+      "name": "Barju Network Suppliers",
+      "address": "Barju"
+    },
+    {
+      "reseller_id": 341,
+      "name": "Annapurna Krishi Farm",
+      "address": "Bardaghat-10, Amardip tole, Nawalparasi"
+    },
+    {
+      "reseller_id": 342,
+      "name": "Arghakhanchi Digital Media Network Pvt. Ltd.",
+      "address": "Sandhikharka, Arghakhanchi"
+    },
+    {
+      "reseller_id": 343,
+      "name": "Motipur Network Service Center",
+      "address": "Shivnagar"
+    },
+    {
+      "reseller_id": 345,
+      "name": "Onetouch Communication Pvt Ltd",
+      "address": "kushaha 5 Saptrai"
+    },
+    {
+      "reseller_id": 346,
+      "name": "Makawanpur Samudayik Vision Pvt Ltd",
+      "address": "Hetauda 1 chaukitol"
+    },
+    {
+      "reseller_id": 348,
+      "name": "Udaya Cable Network Pvt Ltd",
+      "address": "Badachor,Syangja"
+    },
+    {
+      "reseller_id": 349,
+      "name": "Ghurbise Panchami Kewal Network",
+      "address": "Phakphokthum, Rural Municipality ,Ilam, koshi"
+    },
+    {
+      "reseller_id": 351,
+      "name": "Jai Laxmi Internet Pvt Ltd",
+      "address": "Hetauda, Makawanpur"
+    },
+    {
+      "reseller_id": 352,
+      "name": "Susila Electronics and Readyment Pasal",
+      "address": "Miklajung Rural Municipality, Morang"
+    },
+    {
+      "reseller_id": 353,
+      "name": "Kanchanjangha Ghapakhana and Supplies",
+      "address": "Miklajung Rural Municipality, Morang"
+    },
+    {
+      "reseller_id": 354,
+      "name": "Shree Gagan Enterprises",
+      "address": "Bhimdat,kanchanpur"
+    },
+    {
+      "reseller_id": 355,
+      "name": "Quality Technology Pvt. Ltd",
+      "address": "Gadhi Rural Municipality, Gadhi"
+    },
+    {
+      "reseller_id": 356,
+      "name": "Pathivara Digital Cable Network",
+      "address": "Belbari-11Morang"
+    },
+    {
+      "reseller_id": 357,
+      "name": "Dakshinkali Networking Pvt Ltd",
+      "address": "Dakshinkali Municipality, Dakshinkali"
+    },
+    {
+      "reseller_id": 359,
+      "name": "Shikhar Net Pvt. Ltd.",
+      "address": "Dhangadhi"
+    },
+    {
+      "reseller_id": 361,
+      "name": "Arghakhanchi Multipurpose",
+      "address": "Sandikharka"
+    },
+    {
+      "reseller_id": 363,
+      "name": "Laxmi Infotech",
+      "address": "Lahan"
+    },
+    {
+      "reseller_id": 365,
+      "name": "Mechi Spacelink Kakarvitta cable",
+      "address": "kakarvitta"
+    },
+    {
+      "reseller_id": 367,
+      "name": "Greenline Wave Pvt.Ltd.",
+      "address": "Pokhara-27, Talchowk"
+    },
+    {
+      "reseller_id": 369,
+      "name": "Parbat Multipurpose Cooperative Society Ltd.",
+      "address": "Kusma"
+    },
+    {
+      "reseller_id": 371,
+      "name": "Mithila Net Link Pvt Ltd",
+      "address": "Mithila"
+    },
+    {
+      "reseller_id": 373,
+      "name": "Baba Cable TV Network Pvt Ltd",
+      "address": "Dhangadhi"
+    },
+    {
+      "reseller_id": 375,
+      "name": "Shree Bageshowri Cable Televosion Pvt",
+      "address": "Nepalgunj 1 Banke"
+    },
+    {
+      "reseller_id": 377,
+      "name": "Good Vision Cable Net",
+      "address": "Nayabasti"
+    },
+    {
+      "reseller_id": 379,
+      "name": "Acme Technical Basahiya",
+      "address": "Sunawal"
+    },
+    {
+      "reseller_id": 381,
+      "name": "Kiran Electronics",
+      "address": "bheriganga12 chhinchu Surkhet"
+    },
+    {
+      "reseller_id": 382,
+      "name": "Pankaj World General Suppliers",
+      "address": "Kalyanpur-12, siraha"
+    },
+    {
+      "reseller_id": 383,
+      "name": "Kemon",
+      "address": "Khairenitar, Tanahun"
+    },
+    {
+      "reseller_id": 385,
+      "name": "Rajdevi Cable Network pvt. ltd.",
+      "address": "Ishwarpur, Municipality Sarlahi"
+    },
+    {
+      "reseller_id": 387,
+      "name": "Aarohi Enterprises",
+      "address": "Baudhimai municipality,Rautahat"
+    },
+    {
+      "reseller_id": 388,
+      "name": "Cyber Mobile Care",
+      "address": "Kanchan-2, Gajedi"
+    },
+    {
+      "reseller_id": 390,
+      "name": "Dhungana Kirana And Chiya Pasal",
+      "address": "Khairhani, Municipality, Chitwan"
+    },
+    {
+      "reseller_id": 391,
+      "name": "Aman Cable TV Network Pvt Ltd",
+      "address": "Hariwon-09"
+    },
+    {
+      "reseller_id": 392,
+      "name": "DDSM Solution Pvt Ltd",
+      "address": "Balkumari"
+    },
+    {
+      "reseller_id": 394,
+      "name": "RB And Rounak Computer Support",
+      "address": "Kalinchok Rural Municipality, Singati"
+    },
+    {
+      "reseller_id": 396,
+      "name": "Rupitor Nepal Pvt Ltd",
+      "address": "Khairahani, Chitwan"
+    },
+    {
+      "reseller_id": 397,
+      "name": "Dhaulagiri Optical Fiber Center",
+      "address": "Kushma"
+    },
+    {
+      "reseller_id": 399,
+      "name": "Riya Cable Network Pvt Ltd",
+      "address": "Mirchaiya Municipality"
+    },
+    {
+      "reseller_id": 400,
+      "name": "Sky Broadband Jaleshwor Branch",
+      "address": "Mahottari"
+    },
+    {
+      "reseller_id": 402,
+      "name": "Saira Digital Communication Pvt Ltd",
+      "address": "Belkotgadhi-2 Nuwakot"
+    },
+    {
+      "reseller_id": 403,
+      "name": "Sagarmatha Enterprises",
+      "address": "Golbazar, Siraha"
+    },
+    {
+      "reseller_id": 405,
+      "name": "Punam Infotech",
+      "address": "Siraha"
+    },
+    {
+      "reseller_id": 406,
+      "name": "DGIFast Link Pvt.Ltd.",
+      "address": "Sundarharaicha Municipality, Salakpur"
+    },
+    {
+      "reseller_id": 408,
+      "name": "Dudhmati Internet Pvt.Ltd",
+      "address": "Lahan"
+    },
+    {
+      "reseller_id": 409,
+      "name": "K and K Network Pvt Ltd",
+      "address": "Kushma Municipality, Kushma"
+    },
+    {
+      "reseller_id": 410,
+      "name": "Centurylink Internet Pvt Ltd",
+      "address": "Harinagara gaupalika, Harinagar-4"
+    },
+    {
+      "reseller_id": 411,
+      "name": "Deeb S R Suppliers",
+      "address": "Siddhalek -3,Dumidanda Dhading"
+    },
+    {
+      "reseller_id": 413,
+      "name": "Madi IT Support",
+      "address": "Madi-4, Sankhuwasabha"
+    },
+    {
+      "reseller_id": 415,
+      "name": "Aurahi Cable Network Pvt. Ltd.",
+      "address": "Aurahi Municipality"
+    },
+    {
+      "reseller_id": 417,
+      "name": "Bhandari Group Network",
+      "address": "Bheriganga Municipality"
+    },
+    {
+      "reseller_id": 418,
+      "name": "M T Net Service Pvt Ltd",
+      "address": "Hetauda"
+    },
+    {
+      "reseller_id": 419,
+      "name": "Danabari Multiservice",
+      "address": "Shukrabare"
+    },
+    {
+      "reseller_id": 421,
+      "name": "EarthLink Network And Technology Pvt Ltd",
+      "address": "Mandandeupur Municipality"
+    },
+    {
+      "reseller_id": 424,
+      "name": "Gen X. Networks Pvt Ltd",
+      "address": "itahari-6"
+    },
+    {
+      "reseller_id": 426,
+      "name": "Gayatri Groups Pvt. Ltd.",
+      "address": "Madhesh Province, MAHOTTARI, Pipra Rural Municipality, Pipra"
+    },
+    {
+      "reseller_id": 428,
+      "name": "Dupcheswor T.V. Net And Technology Service",
+      "address": "Chhahare, Likhu Gaunpalika"
+    },
+    {
+      "reseller_id": 429,
+      "name": "Bhairav Electronics and Sound Service",
+      "address": "Galkot"
+    },
+    {
+      "reseller_id": 431,
+      "name": "Prey Network Pvt Ltd",
+      "address": "Rangeli-1 Morang"
+    },
+    {
+      "reseller_id": 433,
+      "name": "Prashanna Digital Cable Network",
+      "address": "KTM"
+    },
+    {
+      "reseller_id": 435,
+      "name": "Kamal Traders",
+      "address": "Rajbiraj Municipality"
+    },
+    {
+      "reseller_id": 438,
+      "name": "M1 Solution",
+      "address": "Dharan, Sub-metropolitan City"
+    },
+    {
+      "reseller_id": 439,
+      "name": "Om Net Sewa",
+      "address": "Buddhabhumi 01 Kapilvastu"
+    },
+    {
+      "reseller_id": 440,
+      "name": "Bishwa Smirti Cable and Internet",
+      "address": "Paiyu Gaupalika-2 Arthung"
+    },
+    {
+      "reseller_id": 441,
+      "name": "Kumal Cable Net Pvt Ltd",
+      "address": "Chapakot-8 Damachaur"
+    },
+    {
+      "reseller_id": 443,
+      "name": "Wintech computer center",
+      "address": "Lalbandi Municipality"
+    },
+    {
+      "reseller_id": 445,
+      "name": "A.Link Communication Pvt Ltd",
+      "address": "Dewanganj Rural Municipality"
+    },
+    {
+      "reseller_id": 446,
+      "name": "Indreni Digital Media Pvt Ltd",
+      "address": "Letang"
+    },
+    {
+      "reseller_id": 448,
+      "name": "Manakamna Mobile Center",
+      "address": "Khadak 4 Saptari"
+    },
+    {
+      "reseller_id": 449,
+      "name": "NNS Branch",
+      "address": "Biratnagar"
+    },
+    {
+      "reseller_id": 450,
+      "name": "Shree Durga Optical Fiber Network",
+      "address": "Ishworpur-6"
+    },
+    {
+      "reseller_id": 452,
+      "name": "speed link communication",
+      "address": "kathmandu"
+    },
+    {
+      "reseller_id": 454,
+      "name": "New Swarit Mobile",
+      "address": "Kusunti, Lalitpur"
+    },
+    {
+      "reseller_id": 457,
+      "name": "Sajilo Digital Communication",
+      "address": "Bajini-03, J.S. Sub Metropolitan,Bara"
+    },
+    {
+      "reseller_id": 459,
+      "name": "SmartLink Lokendra Franchise Belauri",
+      "address": "TInkunne"
+    },
+    {
+      "reseller_id": 460,
+      "name": "SmartLink Musan Waiba Franchaise Nuwakot",
+      "address": "TInkunne"
+    },
+    {
+      "reseller_id": 462,
+      "name": "SmartLink Neema Tamang Franchise Nuwakot",
+      "address": "TInkunne"
+    },
+    {
+      "reseller_id": 464,
+      "name": "Pushpanjali Computer and Electronics",
+      "address": "Kohalpur-11 New Road"
+    },
+    {
+      "reseller_id": 465,
+      "name": "Global Network and Communication Pvt Ltd",
+      "address": "Padajungi, Kamal Rural Municipality, Jhapa"
+    },
+    {
+      "reseller_id": 466,
+      "name": "Galkot Link Pvt. Ltd.",
+      "address": "Baglung, Galkot Municipality"
+    },
+    {
+      "reseller_id": 468,
+      "name": "Chaudhary Techno Traders",
+      "address": "Mahottari Rural Municipality"
+    },
+    {
+      "reseller_id": 470,
+      "name": "Srijana Communication Center",
+      "address": "Bheriganga-9, Jahare"
+    },
+    {
+      "reseller_id": 472,
+      "name": "Govinda Enterprises",
+      "address": "Gurbhakot- 9 , Bhotechaur"
+    },
+    {
+      "reseller_id": 473,
+      "name": "East Link Technology Pvt Ltd",
+      "address": "Tripureshwor, Kathmandu"
+    },
+    {
+      "reseller_id": 474,
+      "name": "Itel Network Pvt Ltd",
+      "address": "Samakhushi, Ktm"
+    },
+    {
+      "reseller_id": 476,
+      "name": "New Sarlahi Communication",
+      "address": "Malangwa-03, Sarlahi"
+    },
+    {
+      "reseller_id": 478,
+      "name": "Muna Madan Digital Cable",
+      "address": "Jeetpur simara-21, Manchowk, Amlekhgunj"
+    },
+    {
+      "reseller_id": 480,
+      "name": "Chandragadhi Pathari Branch",
+      "address": "Amardha"
+    },
+    {
+      "reseller_id": 482,
+      "name": "Sunlight Networking and Communication",
+      "address": "Kawasoti Municipality, Kawasoti"
+    },
+    {
+      "reseller_id": 484,
+      "name": "New S. P. Traders",
+      "address": "Lahan"
+    },
+    {
+      "reseller_id": 485,
+      "name": "Jay Mithila Network Pvt Ltd",
+      "address": "Barahathawa-5, Sarlahi"
+    },
+    {
+      "reseller_id": 486,
+      "name": "Sundar Media Network",
+      "address": "Belbari"
+    }
+  ]
+}
