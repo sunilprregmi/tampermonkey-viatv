@@ -15,7 +15,7 @@
 
 (function() {
     const OLD = "https://ott1.viatv.com.np/api/customer/reseller_list";
-    const NEW = "https://github.com/sunilprregmi/tampermonkey-viatv/raw/main/reseller_list.json";
+    const NEW = "https://raw.githubusercontent.com/sunilprregmi/tampermonkey-viatv/refs/heads/main/reseller_list.json";
 
     const _f = window.fetch;
     window.fetch = (...a) => {
@@ -28,4 +28,5 @@
         if (u === OLD) u = NEW;
         return _o.apply(this, [m, u, ...Array.from(arguments).slice(2)]);
     };
+
 })();
